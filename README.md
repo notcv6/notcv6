@@ -1,6 +1,20 @@
-<h1 align=center>Hello!</h1>
+<img src="https://cdn.discordapp.com/attachments/712459674653425755/1069860322539737149/asdfff.png" align=center></img>
+<h1 align=center>"Do you remember the promise we made that day?"</h1>
+
+<p align=center><a href="https://www.last.fm/user/notcv6">last.fm</a> | <a href="https://twitter.com/notcv6">twitter</a> | <a href="https://www.youtube.com/channel/UCvolVeQfO8Qgvx2xtx64Rfw">youtube</a> | <a href="https://osu.ppy.sh/users/13099067">osu! profile</a> | <a href="https://vndb.org/u196018/ulist?vnlist=1">vndb</a>
+
+<p align=center>I like reading visual novels and listening to the Idolm@ster, nice to meet you!</p>
+<p align=center>Currently I am reading (Updated 1/30/23): Riddle Joker Ayase's Route.</p>
+
+___
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/193823353943883786)](https://discord.com/users/193823353943883786)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=notcv6)
+
+___
+
+<p align=center>Live happily!</p>
+
 <!--
 **notcv6/notcv6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
