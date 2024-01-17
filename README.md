@@ -12,8 +12,9 @@ ___
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=notcv6)
 
 ___
-
+<!--
 <img src="https://user-images.githubusercontent.com/30357859/215688931-3257c32f-3fb5-4509-8b81-75ec73ee8425.jpg" align=center></img>
+-->
 
 <p align=center>Live happily!</p>
 
