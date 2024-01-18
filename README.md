@@ -1,5 +1,5 @@
 <h3 align=center>game design stuff</h3>
-<p align=left>Short introduction above, but basically I'm big into anime!</p>
+<p align=left>Short introduction below, but basically I'm big into anime!</p>
 <p align=left>Programmer by trade, but have interests in music + gameplay design</p>
 <p align=left>Working for GOOCAT as a Gameplay Designer! outside of class I'm also doing Java on the side.</p>
 
